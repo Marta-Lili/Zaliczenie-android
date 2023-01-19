@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyExam</string>
+    <string-array name="locations">
+        <item>Gdynia</item>
+        <item>Sopot</item>
+        <item>Gdańsk</item>
+        <item>Rumia</item>
+        <item>Wejherowo</item>
+    </string-array>
+</resources>
