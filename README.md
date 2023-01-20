@@ -28,5 +28,5 @@ Logowanie z hasłem:  Gdy użytkownik nie wprowadzi żadnych danych pojawi się 
 Gdy użytkownik wpisze login oraz hasło nie poprawne pojawi się komunikat „Niepoprawny login/hasło”
 Gdy użytkownik wpisze poprawny login oraz hasło wybije komunikat „Udane logowanie”
 Przycisk Button Login służy do zweryfikowania porawności wpisanych danych w logowaniu oraz przekierowania do pierwotnej strony. 
+![Obraz1](https://user-images.githubusercontent.com/62775334/213670688-104a4097-c50d-4b1d-a09f-286254a6d0d7.png)
 
-<img src="C:\Users\Lilou\Downloads\Obraz1.png" alt="My obraz1"/>
