@@ -29,8 +29,10 @@ Gdy użytkownik wpisze login oraz hasło nie poprawne pojawi się komunikat „N
 Gdy użytkownik wpisze poprawny login oraz hasło wybije komunikat „Udane logowanie”
 Przycisk Button Login służy do zweryfikowania porawności wpisanych danych w logowaniu oraz przekierowania do pierwotnej strony. 
 
-![Obraz1](https://user-images.githubusercontent.com/62775334/213670688-104a4097-c50d-4b1d-a09f-286254a6d0d7.png)
 
+<p align="center">
+![Obraz1](https://user-images.githubusercontent.com/62775334/213670688-104a4097-c50d-4b1d-a09f-286254a6d0d7.png)
+</p>
 ![Obraz3](https://user-images.githubusercontent.com/62775334/213670905-03d67f5e-5bf2-42d8-855a-75d15f87c0f9.png)
 
 ![Obraz4](https://user-images.githubusercontent.com/62775334/213670925-1c3e6ff8-29dc-42c5-aecd-f38300ad1e04.png)
